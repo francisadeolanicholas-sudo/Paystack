@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.section1{
+    background-color: #EAF6FC;
+    height: 90vh;
+}
+.section1 img {
+    width: 100%;
+    position: absolute;
+    top: 30%;
+    opacity: calc(22%);
+    
+}
+
+.first-div {
+    position: absolute;
+    top: 25%;
+    left: 22%;
+    right: 22%;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}

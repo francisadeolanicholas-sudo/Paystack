@@ -1,0 +1,49 @@
+<switch>
+<a>
+<> opening tag  </> closing tag
+
+//SEO
+S -----> Search 
+E -----> Engine
+O -----> Optimization
+
+//GEO
+G -----> Generative
+E -----> Engine
+O -----> Optimization
+
+flexboxfroggy.com
+
+Semantic Elements
+
+block level Elements
+inline Elements
+
+
+ASSIGNMENT 
+1. flexboxfroggy.com
+2. create a web page using two block level elements and two inline elements and fianlly, embedded a video info the webpage
+
+
+
+    7/22/2026
+------------------
+<ol> </ol> --------------> order list tag 
+<ul> </ul> --------------> unorder list tag \
+
+3 different type of csc in web development
+Inline CSC
+Internal CSC 
+Exernal CSC 
+
+
+    URL Meaning 
+----------------------
+U -----> Uniform
+R -----> Resource
+L -----> Locator
+
+aaukofa-reg.neftify.app
+color picker
+
+Marqueue---> it make text to scrol like the news 
